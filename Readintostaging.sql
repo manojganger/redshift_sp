@@ -5,6 +5,7 @@ DECLARE
   out_var varchar(5000);
   rec RECORD;
   integer_var integer;
+  integer_var1 integer;
   
 BEGIN
   
